@@ -1,4 +1,4 @@
-
+import '../css/Army.css'
 const Army = ()=>{
 
     return (

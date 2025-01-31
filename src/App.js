@@ -4,7 +4,6 @@ import Nav from './components/Nav';
 import Home from './pages/Home';
 import BotList from './pages/botList';
 import Army from './pages/Army';
-import { NavLink } from 'react-router-dom';
 
 function App() {
   return (
