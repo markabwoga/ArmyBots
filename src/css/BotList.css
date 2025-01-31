@@ -1,9 +1,32 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-.botContainer{
-    background-color: aqua;
+.botContainer {
+    height: 700px; /* Fixed height */
+    position: fixed;
+    top: 0;
+    overflow-y: auto; /* Allows scrolling on the y-axis */
+    padding: 20px; /* Optional padding around the container */
+}
+
+.gridContainer {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 equal columns */
+    gap: 20px; /* Space between items */
+    padding: 20px; /* Padding inside grid container */
+    height: 600px; /* Height adjusts based on the content */
+    grid-auto-rows: minmax(250px, auto); /* Ensures all cards have a minimum height of 250px */
+}
+
+.card {
+    background-color: lightgray; /* For visibility */
+    padding: 20px;
+    height: 250px;
+    width: 200px;
+    text-align: center;
+    border: 1px solid #ccc; /* Optional border for item separation */
+    border-radius: 8px; /* Optional rounded corners */
 }

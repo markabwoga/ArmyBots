@@ -3,7 +3,7 @@ const BotList = ()=>{
 
     return (
         <div className='botContainer'>
-                <h2>Select Your Army</h2>
+                <div className='heading'><h1>Select Your Army</h1></div>    
                 <div className='gridContainer'>
                     <div className="card">bot1</div>
                     <div className="card">bot2</div>
