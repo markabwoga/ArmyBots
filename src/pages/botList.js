@@ -1,7 +1,7 @@
 
 const BotList = ()=>{
 
-    return (<></>)
+    return (<p>hello world</p>)
 };
 
 export default BotList

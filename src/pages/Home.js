@@ -2,7 +2,7 @@
 
 const Home = ()=>{
 
-    return (<></>);
+    return (<>big head no brains</>);
 };
 
 export default Home
