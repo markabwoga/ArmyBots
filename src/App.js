@@ -1,8 +1,14 @@
 import DataBot from "./components/DataBot";
+import "./App.css"
 
 function App() {
   return (
-    <DataBot />
+    <>
+      <div className="list-bots">
+         <DataBot />
+      </div>
+    </>
+  
     
 
   );

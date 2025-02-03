@@ -22,3 +22,10 @@ main{
     flex: 1;
     text-align: center;
 }
+.Army-bots{
+    height: 400px;
+    background-color: greenyellow;
+}
+.list-bots{
+    height: 500px;
+}
