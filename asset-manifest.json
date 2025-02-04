@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ArmyBots/static/css/main.71225b9a.css",
+    "main.js": "/ArmyBots/static/js/main.b0d3dc1e.js",
+    "static/js/151.7f145f3d.chunk.js": "/ArmyBots/static/js/151.7f145f3d.chunk.js",
+    "index.html": "/ArmyBots/index.html",
+    "main.71225b9a.css.map": "/ArmyBots/static/css/main.71225b9a.css.map",
+    "main.b0d3dc1e.js.map": "/ArmyBots/static/js/main.b0d3dc1e.js.map",
+    "151.7f145f3d.chunk.js.map": "/ArmyBots/static/js/151.7f145f3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71225b9a.css",
+    "static/js/main.b0d3dc1e.js"
+  ]
+}
